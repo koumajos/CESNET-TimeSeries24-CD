@@ -7,7 +7,7 @@ J. Koumar, K. Hynek, Pavel Šiška and T. Čejka, "Unsupervised Time Series Data
 ```
 TODO: Add citation of preprint
 ```
-gi
+
 Josef Koumar, Karel Hynek, Pavel Šiška & Tomáš Čejka. (2024). CESNET-TimeSeries-2023-2024: The dataset for network traffic forecasting and anomaly detection [Data set]. Zenodo. <https://doi.org/TODO>
 
 ```
