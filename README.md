@@ -1,3 +1,20 @@
+# Create datapoints modules for the dataset CESNET-TimeSeries-2023-2024
+
+Cite as:
+
+J. Koumar, K. Hynek, Pavel Šiška and T. Čejka, "Unsupervised Time Series Dataset from a High-Speed ISP Network for Anomaly Detection in Network Traffic", arXiv e-prints (2024): TODO
+
+```
+TODO: Add citation of preprint
+```
+
+
+Josef Koumar, Karel Hynek, Pavel Šiška & Tomáš Čejka. (2024). CESNET-TimeSeries-2023-2024: The dataset for network traffic forecasting and anomaly detection [Data set]. Zenodo. https://doi.org/TODO
+
+```
+TODO: Add citation of Zenodo repository
+```
+
 # Installation prerequisities
 
 ### [Install NEMEA](https://github.com/CESNET/Nemea)
