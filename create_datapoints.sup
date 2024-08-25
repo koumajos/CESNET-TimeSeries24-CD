@@ -1,0 +1,13 @@
+<module>
+<name>create_datapoints</name>
+<enabled>true</enabled>
+<path>/data/create_datapoints.py</path>
+<params>--networks_file=/data/networks.csv --asn_file=/data/asndb.dat --geoip2_database=/data/GeoLite2-Country_20230922/GeoLite2-Country.mmdb  --Aggregation=600 --logs /data/logs_create_adp --database_conf=/data/database_conf.yaml</params>
+<trapinterfaces>
+<interface>
+  <type>UNIXSOCKET</type>
+  <direction>IN</direction>
+  <params>flow_data_source</params>
+</interface>
+</trapinterfaces>
+</module>

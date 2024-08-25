@@ -1,0 +1,9 @@
+host: <host-url>
+dbname: tsdb
+user: postgres
+password: postgres
+sslmode: require
+sslrootcert: root.crt
+sslcert: client.crt
+sslkey: client.key
+port: 5432
