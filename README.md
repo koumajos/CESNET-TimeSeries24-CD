@@ -1,14 +1,14 @@
-# Create datapoints modules for the dataset CESNET-TimeSeries-2023-2024
+# Create datapoints modules for the dataset CESNET-TimeSeries24
 
 Cite as:
 
-J. Koumar, K. Hynek, Pavel Šiška and T. Čejka, "Unsupervised Time Series Dataset from a High-Speed ISP Network for Anomaly Detection in Network Traffic", arXiv e-prints (2024): TODO
+Josef Koumar, Karel Hynek, Tomáš Čejka, Pavel Šiška, "CESNET-TimeSeries24: Time Series Dataset for Network Traffic Anomaly Detection and Forecasting", arXiv e-prints (2024): TODO
 
 ```
 TODO: Add citation of preprint
 ```
 
-Josef Koumar, Karel Hynek, Pavel Šiška & Tomáš Čejka. (2024). CESNET-TimeSeries-2023-2024: The dataset for network traffic forecasting and anomaly detection [Data set]. Zenodo. <https://doi.org/TODO>
+Josef Koumar, Karel Hynek, Pavel Šiška & Tomáš Čejka. (2024). CESNET-TimeSeries24: Time Series Dataset for Network Traffic Anomaly Detection and Forecasting [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.13382427>
 
 ```
 TODO: Add citation of Zenodo repository
@@ -590,4 +590,5 @@ while read p; do
   tar -czvf "tmp/$p.csv.tar.gz" "tmp/$p.csv"
   rm -rf "tmp/$p.csv"
 done < tmp/ip_addresses.csv
+
 ```
